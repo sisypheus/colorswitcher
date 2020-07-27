@@ -1,0 +1,1 @@
+#simple js random color switcher
