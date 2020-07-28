@@ -1,4 +1,22 @@
 body {
+    font-family: Roboto, sans-serif;
     padding: 0;
     padding-top: 40vh;
+}
+
+div {
+    display: block;
+    width: 18%;
+    background-color: black;
+    color: white;
+    border-radius: 5%;
+    border: 3px white solid;
+}
+
+button {
+    background-color: transparent;
+    border-radius: 10%;
+    color: white;
+    margin-bottom: 10px;
+    font-size: 1rem;
 }
